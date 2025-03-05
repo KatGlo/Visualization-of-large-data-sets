@@ -1,9 +1,6 @@
 # Visualization of Large Data Sets – Laboratory Exercises 🧑‍💻
  Laboratory exercises from the Visualization of Large Data Sets course @AGH Kraków. PCA, Kernel PCA, t-SNE, UMAP, Neural Networks, and more!
 
-**AGH University of Science and Technology, Kraków**  
-**Faculty of Computer Science**
-
 ---
 
 ## 🚀 Overview
