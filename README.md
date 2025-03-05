@@ -18,8 +18,6 @@ This repository contains practical laboratory exercises from the course **"Visua
 - **Principal Component Analysis (PCA)**: Linear dimensionality reduction technique used for extracting essential features and reducing noise.
 - **Kernel PCA**: Extends PCA to nonlinear cases, allowing better separation and visualization of complex patterns.
 
-📓 **Notebook**: [`PCA_&_KernelPCA.ipynb`](./PCA_&_KernelPCA.ipynb)
-
 ---
 
 ### 📌 **Exercise 2 – Advanced Dimensionality Reduction Techniques**
@@ -31,19 +29,15 @@ Exploration of popular advanced embedding algorithms:
 - **TriMAP** – Improved global structure visualization.
 - **PaCMAP** – Balances preservation of local and global relationships effectively.
 
-📓 **Notebook**: [`MDS_&_t-SNE_&_UMAP_&_TriMAP_&_PaCMAP.ipynb`](./MDS_&_t-SNE_&_UMAP_&_TriMAP_&_PaCMAP.ipynb)
-
 ---
 
 ### 📌 **Exercise 3 – Neural Networks & Visualization**
 Exploring visualization of hidden layers in neural networks to understand learned data representations.
 
-📓 **Notebook**: [`Neural_network_hidden_layers.ipynb`](./Naural_network_hidden_layers.ipynb)
+---
 
 ### 📌 **Exercise 4 – Additional Visualization Techniques**
 Further exercises on practical visualization scenarios involving large data sets, demonstrating best practices and advanced visual analytic methods.
-
-📓 **Notebook**: [`notebook.ipynb`](./notebook.ipynb)
 
 ---
 
