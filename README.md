@@ -44,6 +44,7 @@ Exploring visualization of hidden layers in neural networks to understand learne
 Further exercises on practical visualization scenarios involving large data sets, demonstrating best practices and advanced visual analytic methods.
 
 📓 **Notebook**: [`notebook.ipynb`](./notebook.ipynb)
+
 ---
 
 ## 🛠️ Tools and Libraries
